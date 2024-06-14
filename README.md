@@ -1,2 +1,2 @@
 # react-my-app
-this is my first react app
+This is my first react app
